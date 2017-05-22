@@ -1,0 +1,2049 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://webprotege.stanford.edu/project/7bvOmi1Hg71tr8MbMMKTVK#"
+     xml:base="http://webprotege.stanford.edu/project/7bvOmi1Hg71tr8MbMMKTVK"
+     xmlns:webprotege="http://webprotege.stanford.edu/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://webprotege.stanford.edu/project/7bvOmi1Hg71tr8MbMMKTVK"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8DhrMCAWhfVcSJM3hBIC69 -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R8DhrMCAWhfVcSJM3hBIC69">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>HasKidsMenu</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9VaZpqWxKkr5xgX5C3tXA9 -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R9VaZpqWxKkr5xgX5C3tXA9">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>HasMeetingRoom</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9hHPRsNFFNCG1NluQMZE93 -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R9hHPRsNFFNCG1NluQMZE93">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>HasPlayground</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB7N6f7bEOFMIys0pxGTF2x -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RB7N6f7bEOFMIys0pxGTF2x">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>HasCatering</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBPblDF5VVtVXkp33fF1GSm -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RBPblDF5VVtVXkp33fF1GSm">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>HasAward</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RsnvcjT5uTf2vJTxoCFcLk -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RsnvcjT5uTf2vJTxoCFcLk">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>HasWifi</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBYRSXgzWgNQPauMYMxasWL -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RBYRSXgzWgNQPauMYMxasWL">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label xml:lang="en">Restaurantinauguration</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBj9lpffBXzsIqWygha8sZ2 -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RBj9lpffBXzsIqWygha8sZ2">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>RestaurantProgram</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RcEUZJUMPbY5NaISpsjVry -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RcEUZJUMPbY5NaISpsjVry">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>RestaurantOwner</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R5KmiuOU3qt8ELxIYLfFDq -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R5KmiuOU3qt8ELxIYLfFDq">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RecTFLx4p4hpozkZES6kjo"/>
+        <rdfs:label>Basford</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R6XGaHLhif5vcOgPWoO4sH -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R6XGaHLhif5vcOgPWoO4sH">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBikRlKkNdcP29ACVKEyKCA"/>
+        <rdfs:label>Take-out</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7H1ZYq6RsXfUwZC40ZHfWu -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7H1ZYq6RsXfUwZC40ZHfWu">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label xml:lang="en">RestaurantsNottinghan</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8D0yulXnWuvuj6NnwHGcpI"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Barbecue</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7W086icsOp12BAauX2KXoZ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7W086icsOp12BAauX2KXoZ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBqjedn00Wu5WgezpoW08XY"/>
+        <rdfs:label>French</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7dTOXm6xA9fyNy8ytKebHY -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7dTOXm6xA9fyNy8ytKebHY">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBbUKda6pphKxgcsY3T8GPS"/>
+        <rdfs:label>5forks</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7sELCGXRLyNRsxdq48gTNf -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7sELCGXRLyNRsxdq48gTNf">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDwyXKvln3cWhq9PN3zsEFY"/>
+        <rdfs:label>Indian</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7w0KiGU7p2BhXmWVyYk35o -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7w0KiGU7p2BhXmWVyYk35o">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBqjedn00Wu5WgezpoW08XY"/>
+        <rdfs:label>British</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7yefKYD1BqTW703xWCKhWL -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7yefKYD1BqTW703xWCKhWL">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBqjedn00Wu5WgezpoW08XY"/>
+        <rdfs:label>Spanish</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8222H5mHg2B2vQaoXDhnzG -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8222H5mHg2B2vQaoXDhnzG">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDwyXKvln3cWhq9PN3zsEFY"/>
+        <rdfs:label>Japaneese</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R83OJqp401iC25uNOwpShvW -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R83OJqp401iC25uNOwpShvW">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDwyXKvln3cWhq9PN3zsEFY"/>
+        <rdfs:label>Lebanese</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8BN7E35OKz55mjawmvGrgN -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8BN7E35OKz55mjawmvGrgN">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCgvd9k9Haj50ocXLKifRLA"/>
+        <rdfs:label>CasualDining</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8D0dWOn9DQIWks8N9tKNcG -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8D0dWOn9DQIWks8N9tKNcG">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBbUKda6pphKxgcsY3T8GPS"/>
+        <rdfs:label>Luxury</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8D0yulXnWuvuj6NnwHGcpI -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8D0yulXnWuvuj6NnwHGcpI">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7H1ZYq6RsXfUwZC40ZHfWu"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ByFood</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8OxHnfPeupIAgiEwrhLEZ4 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8OxHnfPeupIAgiEwrhLEZ4">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCgvd9k9Haj50ocXLKifRLA"/>
+        <rdfs:label>Buffet</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8QnCvdfOpc5wgpsAQ8UWm2 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8QnCvdfOpc5wgpsAQ8UWm2">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RecTFLx4p4hpozkZES6kjo"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">St.Anne&apos;s</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8SH7d1cNfyRRVuv6bDlVbq -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8SH7d1cNfyRRVuv6bDlVbq">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RB64DlveYFBpfB9ZIeFYgxu"/>
+        <rdfs:label>Australian</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8ccBfDOlgquzv0ilrIdlTb -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8ccBfDOlgquzv0ilrIdlTb">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDwyXKvln3cWhq9PN3zsEFY"/>
+        <rdfs:label>Malaysian</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8jXsHs9Vkywkrad4I1lFdh -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8jXsHs9Vkywkrad4I1lFdh">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBbUKda6pphKxgcsY3T8GPS"/>
+        <rdfs:label>4forks</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8nPjWGEjxlt8mMaAqiAlx5 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8nPjWGEjxlt8mMaAqiAlx5">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDwyXKvln3cWhq9PN3zsEFY"/>
+        <rdfs:label>Chinese</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8sNeCzGhVr2qQgmDduLDID -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8sNeCzGhVr2qQgmDduLDID">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RecTFLx4p4hpozkZES6kjo"/>
+        <rdfs:label>Dales</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R94Uhk3PyYIzkx5BkOiWwA8 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R94Uhk3PyYIzkx5BkOiWwA8">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCgvd9k9Haj50ocXLKifRLA"/>
+        <rdfs:label>FamilyStyle</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R97gPlNN5Ztmglrr7e7qJoT -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R97gPlNN5Ztmglrr7e7qJoT">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCgvd9k9Haj50ocXLKifRLA"/>
+        <rdfs:label>Pub</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9Q3NdyWjy6Wvd89NEV4lj1 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9Q3NdyWjy6Wvd89NEV4lj1">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RecTFLx4p4hpozkZES6kjo"/>
+        <rdfs:label>Carlton</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9YYRxT7oCiP3X973ailUYl -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9YYRxT7oCiP3X973ailUYl">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCgvd9k9Haj50ocXLKifRLA"/>
+        <rdfs:label>Bistro</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9aPEiihuVQhKCkgeF9hjw7 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9aPEiihuVQhKCkgeF9hjw7">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCgvd9k9Haj50ocXLKifRLA"/>
+        <rdfs:label>FineDining</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9e8TloT1bZ6RdAzbtdmNz9 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9e8TloT1bZ6RdAzbtdmNz9">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RB64DlveYFBpfB9ZIeFYgxu"/>
+        <rdfs:label>American</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9itdUbpSURcTGDFMMzWeds -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9itdUbpSURcTGDFMMzWeds">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBikRlKkNdcP29ACVKEyKCA"/>
+        <rdfs:label>Drive-through</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9tgeVrE2PMPNex8wZV6cad -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9tgeVrE2PMPNex8wZV6cad">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RecTFLx4p4hpozkZES6kjo"/>
+        <rdfs:label>Aspley</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9xxGu0GOKO4JrmWnH0MjMw -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9xxGu0GOKO4JrmWnH0MjMw">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBikRlKkNdcP29ACVKEyKCA"/>
+        <rdfs:label>Sit-down</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9y2aHdavtB04GlAndOjSac -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9y2aHdavtB04GlAndOjSac">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBbUKda6pphKxgcsY3T8GPS"/>
+        <rdfs:label>2forks</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9zOB8JVdJKMYSN9mSik2Zd -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9zOB8JVdJKMYSN9mSik2Zd">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDwyXKvln3cWhq9PN3zsEFY"/>
+        <rdfs:label>Bangladeshi</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9zddpSOO8OXibzQ482j2be -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9zddpSOO8OXibzQ482j2be">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8D0yulXnWuvuj6NnwHGcpI"/>
+        <rdfs:label>Curry</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB64DlveYFBpfB9ZIeFYgxu -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RB64DlveYFBpfB9ZIeFYgxu">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7H1ZYq6RsXfUwZC40ZHfWu"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ByCuisine</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBCNJ1zeIVx4OhaRQ4mUKLF -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBCNJ1zeIVx4OhaRQ4mUKLF">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBbUKda6pphKxgcsY3T8GPS"/>
+        <rdfs:label>1fork</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBDfLovFPTJ5Y9Q58mGVv0F -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBDfLovFPTJ5Y9Q58mGVv0F">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RecTFLx4p4hpozkZES6kjo"/>
+        <rdfs:label>TheArboretum</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBI88UWQdLTwsPtVwfnCAD -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBI88UWQdLTwsPtVwfnCAD">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCgvd9k9Haj50ocXLKifRLA"/>
+        <rdfs:label>Gourmet</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBbUKda6pphKxgcsY3T8GPS -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBbUKda6pphKxgcsY3T8GPS">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7H1ZYq6RsXfUwZC40ZHfWu"/>
+        <rdfs:label>ByService</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBikRlKkNdcP29ACVKEyKCA -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBikRlKkNdcP29ACVKEyKCA">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCgvd9k9Haj50ocXLKifRLA"/>
+        <rdfs:label>FastFood</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBnOAD2yxEda9XbTgf8DXA7 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBnOAD2yxEda9XbTgf8DXA7">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8D0yulXnWuvuj6NnwHGcpI"/>
+        <rdfs:label>Pizza</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBqjedn00Wu5WgezpoW08XY -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBqjedn00Wu5WgezpoW08XY">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RB64DlveYFBpfB9ZIeFYgxu"/>
+        <rdfs:label>European</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBxlFaghLD7a8VXaczM0lSk -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBxlFaghLD7a8VXaczM0lSk">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBqjedn00Wu5WgezpoW08XY"/>
+        <rdfs:label>Italian</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RByzK4PyFZOOtBhL6HydihS -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RByzK4PyFZOOtBhL6HydihS">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBbUKda6pphKxgcsY3T8GPS"/>
+        <rdfs:label>3forks</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8D0yulXnWuvuj6NnwHGcpI"/>
+        <rdfs:label>SeaFood</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC6i87CNj2wxhMuOXw7kekI -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RC6i87CNj2wxhMuOXw7kekI">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RecTFLx4p4hpozkZES6kjo"/>
+        <rdfs:label>Bridge</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCCzi0lFDjsFpPItilbTodX -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCCzi0lFDjsFpPItilbTodX">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCgvd9k9Haj50ocXLKifRLA"/>
+        <rdfs:label>FastCasual</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCayTDHZAFHhY68wfm50Wn8 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCayTDHZAFHhY68wfm50Wn8">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RecTFLx4p4hpozkZES6kjo"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wollaton</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCgHNA9P6e0XUbV8wfDZwn6 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCgHNA9P6e0XUbV8wfDZwn6">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RecTFLx4p4hpozkZES6kjo"/>
+        <rdfs:label>Bilborough</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCgvd9k9Haj50ocXLKifRLA -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCgvd9k9Haj50ocXLKifRLA">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7H1ZYq6RsXfUwZC40ZHfWu"/>
+        <rdfs:label xml:lang="en">ByType</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCgytlkj1qZobFBRkPu3Qc -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCgytlkj1qZobFBRkPu3Qc">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RB64DlveYFBpfB9ZIeFYgxu"/>
+        <rdfs:label>Mexican</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCnkeQ27GKtsZf2kGQqhhzt -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCnkeQ27GKtsZf2kGQqhhzt">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RecTFLx4p4hpozkZES6kjo"/>
+        <rdfs:label>Clifton</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCqXuqbzpjlolkpu67LpZqO -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCqXuqbzpjlolkpu67LpZqO">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RecTFLx4p4hpozkZES6kjo"/>
+        <rdfs:label>RadfordAndPark</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDKAFZV7W9rmcn47i5PLE3U -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDKAFZV7W9rmcn47i5PLE3U">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBqjedn00Wu5WgezpoW08XY"/>
+        <rdfs:label>Greek</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDKjJ6GpXBCdT5K1yIfLfVS -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDKjJ6GpXBCdT5K1yIfLfVS">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RB64DlveYFBpfB9ZIeFYgxu"/>
+        <rdfs:label>Afican</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDKr2kouRUA5bknK04ltjZX -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDKr2kouRUA5bknK04ltjZX">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDwyXKvln3cWhq9PN3zsEFY"/>
+        <rdfs:label>Moroccan</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDL3qAm6hNNeyCyddM23x2u -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDL3qAm6hNNeyCyddM23x2u">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RecTFLx4p4hpozkZES6kjo"/>
+        <rdfs:label>Sherwood</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDaJDgUyXVS8TcZSL9GPWiD -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDaJDgUyXVS8TcZSL9GPWiD">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RecTFLx4p4hpozkZES6kjo"/>
+        <rdfs:label>Bulwell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDaqwSr9t4kJS7zxFlenDqN -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDaqwSr9t4kJS7zxFlenDqN">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8D0yulXnWuvuj6NnwHGcpI"/>
+        <rdfs:label>Sushi</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDeWy40KGYl2g6Y4aZUMHMH -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDeWy40KGYl2g6Y4aZUMHMH">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RecTFLx4p4hpozkZES6kjo"/>
+        <rdfs:label>Lenton</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8D0yulXnWuvuj6NnwHGcpI"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VegetarianFriendly</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDio1HgIU0Y0YshFTqquUbm -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDio1HgIU0Y0YshFTqquUbm">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RecTFLx4p4hpozkZES6kjo"/>
+        <rdfs:label>BulwellForest</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDjKX9x2TrG8kcRuczIfTQu -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDjKX9x2TrG8kcRuczIfTQu">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBqjedn00Wu5WgezpoW08XY"/>
+        <rdfs:label>Turkish</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDwyXKvln3cWhq9PN3zsEFY -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDwyXKvln3cWhq9PN3zsEFY">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RB64DlveYFBpfB9ZIeFYgxu"/>
+        <rdfs:label>Asian</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDxcEmpoQBkSWTFxBmeUtiS -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDxcEmpoQBkSWTFxBmeUtiS">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDwyXKvln3cWhq9PN3zsEFY"/>
+        <rdfs:label>Korean</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDzN4tNH1FU5gfpxNKVDZiy -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDzN4tNH1FU5gfpxNKVDZiy">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RecTFLx4p4hpozkZES6kjo"/>
+        <rdfs:label>Mapperly</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RIc9IuclsutzjtIxVw8u69 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RIc9IuclsutzjtIxVw8u69">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDwyXKvln3cWhq9PN3zsEFY"/>
+        <rdfs:label>Thai</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RNWj870jO0urbIRGcEejer -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RNWj870jO0urbIRGcEejer">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBqjedn00Wu5WgezpoW08XY"/>
+        <rdfs:label>Belgian</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RPOU7wuAVHOhsdot0YuuJH -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RPOU7wuAVHOhsdot0YuuJH">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8D0yulXnWuvuj6NnwHGcpI"/>
+        <rdfs:label>Halal</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RWiMZ74lHwbONs0vDJoiVd -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RWiMZ74lHwbONs0vDJoiVd">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RB64DlveYFBpfB9ZIeFYgxu"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Continental</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RWjLZ48yQApAa9j8ZVAgaR -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RWjLZ48yQApAa9j8ZVAgaR">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RecTFLx4p4hpozkZES6kjo"/>
+        <rdfs:label>Bestwood</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RecTFLx4p4hpozkZES6kjo -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RecTFLx4p4hpozkZES6kjo">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7H1ZYq6RsXfUwZC40ZHfWu"/>
+        <rdfs:label>ByArea</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RqqvzngE8nbAVcNfomaKRE -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RqqvzngE8nbAVcNfomaKRE">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCgvd9k9Haj50ocXLKifRLA"/>
+        <rdfs:label>Coffeehouse</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RrugEia120LA7oGVv4mX76 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RrugEia120LA7oGVv4mX76">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCgvd9k9Haj50ocXLKifRLA"/>
+        <rdfs:label>BarRestaurant</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RznlQmFW2tMQjiKb2m4Fmz -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RznlQmFW2tMQjiKb2m4Fmz">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RB64DlveYFBpfB9ZIeFYgxu"/>
+        <rdfs:label>Caribbean</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RzsF9kTBWUYhK0kLa6GbOQ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RzsF9kTBWUYhK0kLa6GbOQ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RecTFLx4p4hpozkZES6kjo"/>
+        <rdfs:label>LeenValley</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R6HXGw2HSJlrYxieIECw6a -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R6HXGw2HSJlrYxieIECw6a">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7yefKYD1BqTW703xWCKhWL"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8BN7E35OKz55mjawmvGrgN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R97gPlNN5Ztmglrr7e7qJoT"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RByzK4PyFZOOtBhL6HydihS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDeWy40KGYl2g6Y4aZUMHMH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RrugEia120LA7oGVv4mX76"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">2007</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">12:00-02:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <webprotege:RcEUZJUMPbY5NaISpsjVry xml:lang="en">Jacque Ferreira and Dan Lindsay</webprotege:RcEUZJUMPbY5NaISpsjVry>
+        <rdfs:label xml:lang="en">Iberico</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.ibericotapas.com/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R76sbLjJ6dEMRIHIcvvxSNG -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R76sbLjJ6dEMRIHIcvvxSNG">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8BN7E35OKz55mjawmvGrgN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8jXsHs9Vkywkrad4I1lFdh"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCgytlkj1qZobFBRkPu3Qc"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDaJDgUyXVS8TcZSL9GPWiD"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">1997</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">10:00-23:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <rdfs:label xml:lang="en">LasIguanas</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.iguanas.co.uk/restaurants/nottingham"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R788kIFa38XlY1xguGzsNj6 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R788kIFa38XlY1xguGzsNj6">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R6XGaHLhif5vcOgPWoO4sH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8BN7E35OKz55mjawmvGrgN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8nPjWGEjxlt8mMaAqiAlx5"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RByzK4PyFZOOtBhL6HydihS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDzN4tNH1FU5gfpxNKVDZiy"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">2009</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">12:00-23:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <rdfs:label xml:lang="en">MandarinRestaurant</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.mandarinrest.co.uk/about.html"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7NccF6IGGM10JcZWVL44Rg -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7NccF6IGGM10JcZWVL44Rg">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R6XGaHLhif5vcOgPWoO4sH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7dTOXm6xA9fyNy8ytKebHY"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7sELCGXRLyNRsxdq48gTNf"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R94Uhk3PyYIzkx5BkOiWwA8"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9zddpSOO8OXibzQ482j2be"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDzN4tNH1FU5gfpxNKVDZiy"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RPOU7wuAVHOhsdot0YuuJH"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">2005</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">11:00-23:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <rdfs:comment xml:lang="en">On TripAdvisor, Mushtaqs Desi Grill &amp; Karahi has a lot of user reviews and a 3.50 star rating, which speaks for the popularity of the place</rdfs:comment>
+        <rdfs:label xml:lang="en">MushtaqsDesiGrill&amp;Karahi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7PRT4c1WHZOn33JSTT0Uyg -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7PRT4c1WHZOn33JSTT0Uyg">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8BN7E35OKz55mjawmvGrgN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9y2aHdavtB04GlAndOjSac"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdfs:label xml:lang="en">Ania</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7QPxNMrmAVOmHGL360oz9S -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7QPxNMrmAVOmHGL360oz9S">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R6XGaHLhif5vcOgPWoO4sH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8sNeCzGhVr2qQgmDduLDID"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RByzK4PyFZOOtBhL6HydihS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RrugEia120LA7oGVv4mX76"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RznlQmFW2tMQjiKb2m4Fmz"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">2012</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">11:30-00:30</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <webprotege:RcEUZJUMPbY5NaISpsjVry xml:lang="en">Ajith Jaya-Wickrema</webprotege:RcEUZJUMPbY5NaISpsjVry>
+        <rdfs:label xml:lang="en">TurtleBay</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.turtlebay.co.uk/#anchor-food-drink"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7Ytl5Jro9jwFLHYDxz7gcH -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7Ytl5Jro9jwFLHYDxz7gcH">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R6XGaHLhif5vcOgPWoO4sH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7dTOXm6xA9fyNy8ytKebHY"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7sELCGXRLyNRsxdq48gTNf"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8BN7E35OKz55mjawmvGrgN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8jXsHs9Vkywkrad4I1lFdh"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9zddpSOO8OXibzQ482j2be"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCayTDHZAFHhY68wfm50Wn8"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RPOU7wuAVHOhsdot0YuuJH"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/R8AxDUWMc1X1bzw8wQ8CIms"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">2002</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">17:00-23:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <webprotege:RcEUZJUMPbY5NaISpsjVry xml:lang="en">Naveed Khaliq</webprotege:RcEUZJUMPbY5NaISpsjVry>
+        <rdfs:comment xml:lang="en">Intimate restaurant with stylish modern decor and a contemporary take on classic Indian dishes.</rdfs:comment>
+        <rdfs:label xml:lang="en">Anoki</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.anoki.co.uk/menu"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7lGVMUzRZmFIgZ6uWT9fhh -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7lGVMUzRZmFIgZ6uWT9fhh">
+        <rdfs:label>Drink Award</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7yP1hwIbQLhaZpuX6yiFcp -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7yP1hwIbQLhaZpuX6yiFcp">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R6XGaHLhif5vcOgPWoO4sH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9tgeVrE2PMPNex8wZV6cad"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RByzK4PyFZOOtBhL6HydihS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCCzi0lFDjsFpPItilbTodX"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDxcEmpoQBkSWTFxBmeUtiS"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">2014</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">12:00-23:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <webprotege:RcEUZJUMPbY5NaISpsjVry xml:lang="en">Sophia Lee</webprotege:RcEUZJUMPbY5NaISpsjVry>
+        <rdfs:comment xml:lang="en">Gift card purchases  available</rdfs:comment>
+        <rdfs:label xml:lang="en">MissKorea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7ymT75rbgLVsk2ukcur7oB -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7ymT75rbgLVsk2ukcur7oB">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8OxHnfPeupIAgiEwrhLEZ4"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9zddpSOO8OXibzQ482j2be"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RByzK4PyFZOOtBhL6HydihS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCgHNA9P6e0XUbV8wfDZwn6"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDaqwSr9t4kJS7zxFlenDqN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RWiMZ74lHwbONs0vDJoiVd"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RrugEia120LA7oGVv4mX76"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">12:00-23:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <rdfs:comment xml:lang="en">In weekend offers live music</rdfs:comment>
+        <rdfs:label xml:lang="en">OAKS</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.oaksnottingham.co.uk/eat-and-drink/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R80Lm5wWu6JedaUtySq1No0 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R80Lm5wWu6JedaUtySq1No0">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R6XGaHLhif5vcOgPWoO4sH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7dTOXm6xA9fyNy8ytKebHY"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7sELCGXRLyNRsxdq48gTNf"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9aPEiihuVQhKCkgeF9hjw7"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9zddpSOO8OXibzQ482j2be"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCqXuqbzpjlolkpu67LpZqO"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDwyXKvln3cWhq9PN3zsEFY"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RPOU7wuAVHOhsdot0YuuJH"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/R7lGVMUzRZmFIgZ6uWT9fhh"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RDT1IXGSFI2u1rModdOXvDc"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">2012</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">17:00-22:30</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <webprotege:RcEUZJUMPbY5NaISpsjVry xml:lang="en">Amita Sawhney</webprotege:RcEUZJUMPbY5NaISpsjVry>
+        <rdfs:label xml:lang="en">MemSaab</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.mem-saab.co.uk/contact.html"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R856cgTPCz7KE4VnRCcrB6e -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R856cgTPCz7KE4VnRCcrB6e">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R6XGaHLhif5vcOgPWoO4sH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9xxGu0GOKO4JrmWnH0MjMw"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9y2aHdavtB04GlAndOjSac"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDjKX9x2TrG8kcRuczIfTQu"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RPOU7wuAVHOhsdot0YuuJH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RWjLZ48yQApAa9j8ZVAgaR"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">1992</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">11:00-01:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <webprotege:RcEUZJUMPbY5NaISpsjVry xml:lang="en">Mehmet Kolcak</webprotege:RcEUZJUMPbY5NaISpsjVry>
+        <rdfs:label xml:lang="en">Antalya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8AxDUWMc1X1bzw8wQ8CIms -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8AxDUWMc1X1bzw8wQ8CIms">
+        <rdfs:label>Best Restataurant</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8G2Fw7b1Kgvxbz0H4Aimi8 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8G2Fw7b1Kgvxbz0H4Aimi8">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R6XGaHLhif5vcOgPWoO4sH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9xxGu0GOKO4JrmWnH0MjMw"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9y2aHdavtB04GlAndOjSac"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9zddpSOO8OXibzQ482j2be"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDeWy40KGYl2g6Y4aZUMHMH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDxcEmpoQBkSWTFxBmeUtiS"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">2002</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">11:00-00:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <rdfs:label xml:lang="en">Sarangchae</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://sarangchaeuk.wixsite.com/sarangchae"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8KK8jdqAxxAgDJJCMHOHUW -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8KK8jdqAxxAgDJJCMHOHUW">
+        <rdfs:label>Fasle</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8Ll30lpPLJmOJVQUiuXM55 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8Ll30lpPLJmOJVQUiuXM55">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8BN7E35OKz55mjawmvGrgN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8jXsHs9Vkywkrad4I1lFdh"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCgytlkj1qZobFBRkPu3Qc"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCqXuqbzpjlolkpu67LpZqO"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">2000</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">11:00-23:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <rdfs:comment xml:lang="en">Offers studdent discount and vouchers</rdfs:comment>
+        <rdfs:label xml:lang="en">Chiquito</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.chiquito.co.uk/restaurant/nottingham-cornerhouse"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8iPekR8YSFwQ21wO2irhWZ -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8iPekR8YSFwQ21wO2irhWZ">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7w0KiGU7p2BhXmWVyYk35o"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8D0dWOn9DQIWks8N9tKNcG"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBI88UWQdLTwsPtVwfnCAD"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCgHNA9P6e0XUbV8wfDZwn6"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/R8AxDUWMc1X1bzw8wQ8CIms"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">07:00-22:30</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <webprotege:RcEUZJUMPbY5NaISpsjVry xml:lang="en">Joshua Grimshaw</webprotege:RcEUZJUMPbY5NaISpsjVry>
+        <rdfs:label xml:lang="en">Hart&apos;s</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8pRg3RbP8w052TCtyK1CGc -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8pRg3RbP8w052TCtyK1CGc">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R6XGaHLhif5vcOgPWoO4sH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8222H5mHg2B2vQaoXDhnzG"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8BN7E35OKz55mjawmvGrgN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8jXsHs9Vkywkrad4I1lFdh"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCayTDHZAFHhY68wfm50Wn8"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDaqwSr9t4kJS7zxFlenDqN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">1989</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">18:30-22:30</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <webprotege:RcEUZJUMPbY5NaISpsjVry xml:lang="en">Mr. Kato</webprotege:RcEUZJUMPbY5NaISpsjVry>
+        <rdfs:comment xml:lang="en">Higoi is the only truly authentic Japanese Restaurant in Nottingham, offering probably one of the best menu&apos;s in England.</rdfs:comment>
+        <rdfs:label xml:lang="en">Higoi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8zFylRYfuHyeEgpwCvztlc -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8zFylRYfuHyeEgpwCvztlc">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9e8TloT1bZ6RdAzbtdmNz9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9y2aHdavtB04GlAndOjSac"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCqXuqbzpjlolkpu67LpZqO"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RrugEia120LA7oGVv4mX76"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">2002</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">12:00-23:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <rdfs:label xml:lang="en">RedsTrueBarbecue</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://truebarbecue.com/nottingham/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R90SGzb98eOYBHCRXREm07g -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R90SGzb98eOYBHCRXREm07g">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8BN7E35OKz55mjawmvGrgN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8sNeCzGhVr2qQgmDduLDID"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RByzK4PyFZOOtBhL6HydihS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDKAFZV7W9rmcn47i5PLE3U"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">1973</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">18:00-</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <webprotege:RcEUZJUMPbY5NaISpsjVry xml:lang="en">Nick</webprotege:RcEUZJUMPbY5NaISpsjVry>
+        <rdfs:comment xml:lang="en">Greek dancer and belly dancer available</rdfs:comment>
+        <rdfs:label xml:lang="en">EvivaTaverna</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.eviva-taverna.co.uk/about.htm"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R90ckQGb1UtNt6aqNdBZKYC -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R90ckQGb1UtNt6aqNdBZKYC">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R6XGaHLhif5vcOgPWoO4sH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8QnCvdfOpc5wgpsAQ8UWm2"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9xxGu0GOKO4JrmWnH0MjMw"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9zddpSOO8OXibzQ482j2be"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBCNJ1zeIVx4OhaRQ4mUKLF"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDKjJ6GpXBCdT5K1yIfLfVS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RrugEia120LA7oGVv4mX76"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">1998</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">12:00-23:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <rdfs:label xml:lang="en">TheMarina</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R93XYcSVGApIE6TGvIr5Tsq -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R93XYcSVGApIE6TGvIr5Tsq">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7yefKYD1BqTW703xWCKhWL"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R97gPlNN5Ztmglrr7e7qJoT"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9y2aHdavtB04GlAndOjSac"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC6i87CNj2wxhMuOXw7kekI"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RrugEia120LA7oGVv4mX76"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">18:00-23:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <rdfs:label xml:lang="en">TheTapastry</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R94rYDGMOArIKAHFj9RyYWi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R94rYDGMOArIKAHFj9RyYWi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R6XGaHLhif5vcOgPWoO4sH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8222H5mHg2B2vQaoXDhnzG"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8BN7E35OKz55mjawmvGrgN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RByzK4PyFZOOtBhL6HydihS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDaqwSr9t4kJS7zxFlenDqN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RzsF9kTBWUYhK0kLa6GbOQ"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">1997</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <rdfs:comment xml:lang="en">Sushi rolling classes available</rdfs:comment>
+        <rdfs:label xml:lang="en">YO!Sushi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R96HHjnUwdIKI6TOKfRIqgc -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R96HHjnUwdIKI6TOKfRIqgc">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8BN7E35OKz55mjawmvGrgN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8jXsHs9Vkywkrad4I1lFdh"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9Q3NdyWjy6Wvd89NEV4lj1"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDjKX9x2TrG8kcRuczIfTQu"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RPOU7wuAVHOhsdot0YuuJH"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">2015</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">17:00-23:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <rdfs:label xml:lang="en">AlaturkaMezeMangal</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://alaturkamezemangal.co.uk/index.html"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9CKVs7JPQ2jrPXUHxJsKjr -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9CKVs7JPQ2jrPXUHxJsKjr">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdfs:label>LochFyneRestaurant</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9FVjrgItQ4JENh9tnJSmqa -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9FVjrgItQ4JENh9tnJSmqa">
+        <rdfs:label>No</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9IGMQpn14yvHnlFABnO6OO -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9IGMQpn14yvHnlFABnO6OO">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8BN7E35OKz55mjawmvGrgN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8jXsHs9Vkywkrad4I1lFdh"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCqXuqbzpjlolkpu67LpZqO"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDKr2kouRUA5bknK04ltjZX"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">2001</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">12:00-23:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <rdfs:comment xml:lang="en">Offers belly-dancing show</rdfs:comment>
+        <rdfs:label xml:lang="en">Marrakech</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://marrakeshnottingham.co.uk/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9KUC06f8CCZ4p7Hrn9EAFH -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9KUC06f8CCZ4p7Hrn9EAFH">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8OxHnfPeupIAgiEwrhLEZ4"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9Q3NdyWjy6Wvd89NEV4lj1"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9zddpSOO8OXibzQ482j2be"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBnOAD2yxEda9XbTgf8DXA7"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RByzK4PyFZOOtBhL6HydihS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDaqwSr9t4kJS7zxFlenDqN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RWiMZ74lHwbONs0vDJoiVd"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">2003</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">12:00-22:30</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <webprotege:RcEUZJUMPbY5NaISpsjVry xml:lang="en">James Brion</webprotege:RcEUZJUMPbY5NaISpsjVry>
+        <rdfs:label xml:lang="en">COSMO</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.cosmo-restaurants.co.uk/locations/nottingham/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9WGKaRWeuqpKZqq1SwchWn -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9WGKaRWeuqpKZqq1SwchWn">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R6XGaHLhif5vcOgPWoO4sH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8BN7E35OKz55mjawmvGrgN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8jXsHs9Vkywkrad4I1lFdh"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBnOAD2yxEda9XbTgf8DXA7"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBxlFaghLD7a8VXaczM0lSk"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCqXuqbzpjlolkpu67LpZqO"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">2011</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">11:00-23:30</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <rdfs:label xml:lang="en">Zizzi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9WixQM7YO3LKbDv2CaLqk2 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9WixQM7YO3LKbDv2CaLqk2">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdfs:label>TheLobsterPot</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9ah6qspXeHhkpYrhbWk0xv -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9ah6qspXeHhkpYrhbWk0xv">
+        <rdfs:label>Yes</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9rDn2v1Hkhipkkb5XNx8tr -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9rDn2v1Hkhipkkb5XNx8tr">
+        <rdfs:label>SuperChickenRico</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBAQYvIEIsgAHEYN0Y2ZE2a -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBAQYvIEIsgAHEYN0Y2ZE2a">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R6XGaHLhif5vcOgPWoO4sH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R83OJqp401iC25uNOwpShvW"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8jXsHs9Vkywkrad4I1lFdh"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9aPEiihuVQhKCkgeF9hjw7"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDL3qAm6hNNeyCyddM23x2u"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDjKX9x2TrG8kcRuczIfTQu"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">2015</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">12:00-23:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <webprotege:RcEUZJUMPbY5NaISpsjVry xml:lang="en">Umar Zaman</webprotege:RcEUZJUMPbY5NaISpsjVry>
+        <rdfs:label xml:lang="en">AnaBedouin</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.anabedouin.co.uk/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBO0wo1a8pAusynVU6Hm22v -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBO0wo1a8pAusynVU6Hm22v">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8ccBfDOlgquzv0ilrIdlTb"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8jXsHs9Vkywkrad4I1lFdh"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R94Uhk3PyYIzkx5BkOiWwA8"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9zddpSOO8OXibzQ482j2be"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDzN4tNH1FU5gfpxNKVDZiy"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">2003</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">12:00-23:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <webprotege:RcEUZJUMPbY5NaISpsjVry xml:lang="en">Maziah Omar</webprotege:RcEUZJUMPbY5NaISpsjVry>
+        <rdfs:comment xml:lang="en">2016 Winner Tripadvisor</rdfs:comment>
+        <rdfs:label xml:lang="en">NadaBudaya</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://nadabudaya.com/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBQRLO1K4hic50422oAH8CX -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBQRLO1K4hic50422oAH8CX">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8BN7E35OKz55mjawmvGrgN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8jXsHs9Vkywkrad4I1lFdh"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBDfLovFPTJ5Y9Q58mGVv0F"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBnOAD2yxEda9XbTgf8DXA7"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBxlFaghLD7a8VXaczM0lSk"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">11:00-23:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <rdfs:label xml:lang="en">BellaItalia</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.bellaitalia.co.uk/italian-restaurant/nottingham-cornerhouse/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu">
+        <rdfs:label>False</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBxGX0x9rBM575RLE6dBWVC -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBxGX0x9rBM575RLE6dBWVC">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8SH7d1cNfyRRVuv6bDlVbq"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R97gPlNN5Ztmglrr7e7qJoT"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBCNJ1zeIVx4OhaRQ4mUKLF"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDL3qAm6hNNeyCyddM23x2u"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">1994</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">11:00-23:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <rdfs:label xml:lang="en">Walkabout</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.walkaboutbars.co.uk/about"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC1x7AMSBgMpKW6aLih01bz -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RC1x7AMSBgMpKW6aLih01bz">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R94Uhk3PyYIzkx5BkOiWwA8"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9e8TloT1bZ6RdAzbtdmNz9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9y2aHdavtB04GlAndOjSac"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBnOAD2yxEda9XbTgf8DXA7"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBxlFaghLD7a8VXaczM0lSk"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCqXuqbzpjlolkpu67LpZqO"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <rdfs:label xml:lang="en">Frankie&amp;Benny&apos;s</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC3cq0LuGgjK053nicZB2iB -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RC3cq0LuGgjK053nicZB2iB">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R6XGaHLhif5vcOgPWoO4sH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8BN7E35OKz55mjawmvGrgN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9zddpSOO8OXibzQ482j2be"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RByzK4PyFZOOtBhL6HydihS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCnkeQ27GKtsZf2kGQqhhzt"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RIc9IuclsutzjtIxVw8u69"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">2015</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">11:00-23:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <webprotege:RcEUZJUMPbY5NaISpsjVry xml:lang="en">Ban Kaewkraikhot</webprotege:RcEUZJUMPbY5NaISpsjVry>
+        <rdfs:comment xml:lang="en">Zaap Thai brings a slice of Bangkok to the streets of Nottingham. Zaap is like no other restaurant – if you’re lucky enough to have been to Thailand, then you’d be forgiven for thinking you’d left Nottingham and landed in the middle of a Bangkok street food market.</rdfs:comment>
+        <rdfs:label xml:lang="en">ZaapThai</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.zaapthai.co.uk/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCGP96Zd8CrVafgYlU3etpN -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCGP96Zd8CrVafgYlU3etpN">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCgytlkj1qZobFBRkPu3Qc"/>
+        <rdfs:label>Tortilla</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCHUqygApxhoahwoAWn4F8O -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCHUqygApxhoahwoAWn4F8O">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R6XGaHLhif5vcOgPWoO4sH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8222H5mHg2B2vQaoXDhnzG"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8BN7E35OKz55mjawmvGrgN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8jXsHs9Vkywkrad4I1lFdh"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8nPjWGEjxlt8mMaAqiAlx5"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC6i87CNj2wxhMuOXw7kekI"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDaqwSr9t4kJS7zxFlenDqN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">1997</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">11:00-00:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <webprotege:RcEUZJUMPbY5NaISpsjVry xml:lang="en">King Tang</webprotege:RcEUZJUMPbY5NaISpsjVry>
+        <rdfs:label xml:lang="en">TheOrient</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCNChbv64pTmwiXta6a3rqL -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCNChbv64pTmwiXta6a3rqL">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R6XGaHLhif5vcOgPWoO4sH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8nPjWGEjxlt8mMaAqiAlx5"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9Q3NdyWjy6Wvd89NEV4lj1"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBDfLovFPTJ5Y9Q58mGVv0F"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RByzK4PyFZOOtBhL6HydihS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RrugEia120LA7oGVv4mX76"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">1997</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">11.00-24.00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <rdfs:label xml:lang="en">ShanghaiShanghai</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCRGL8MHGUxRrlHgdXhjS98 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCRGL8MHGUxRrlHgdXhjS98">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7sELCGXRLyNRsxdq48gTNf"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8BN7E35OKz55mjawmvGrgN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9zOB8JVdJKMYSN9mSik2Zd"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9zddpSOO8OXibzQ482j2be"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RByzK4PyFZOOtBhL6HydihS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDzN4tNH1FU5gfpxNKVDZiy"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RPOU7wuAVHOhsdot0YuuJH"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">2000</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">17:00-00:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <rdfs:label>NoorJahan</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG">
+        <rdfs:label>True</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCn34bfczwlpIXVMFw4CGSw -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCn34bfczwlpIXVMFw4CGSw">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8BN7E35OKz55mjawmvGrgN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8jXsHs9Vkywkrad4I1lFdh"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCnkeQ27GKtsZf2kGQqhhzt"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDKAFZV7W9rmcn47i5PLE3U"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">2010</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">17:00-00:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <webprotege:RcEUZJUMPbY5NaISpsjVry xml:lang="en">Emilios Polimos</webprotege:RcEUZJUMPbY5NaISpsjVry>
+        <rdfs:label xml:lang="en">Emilios</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.emiliosgreekrestaurant.co.uk/about-us/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCrbzH2wbtUjNdvDIiExP7K -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCrbzH2wbtUjNdvDIiExP7K">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7w0KiGU7p2BhXmWVyYk35o"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8jXsHs9Vkywkrad4I1lFdh"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBI88UWQdLTwsPtVwfnCAD"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDio1HgIU0Y0YshFTqquUbm"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/R8AxDUWMc1X1bzw8wQ8CIms"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">2006</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">17:00-02:30</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <webprotege:RcEUZJUMPbY5NaISpsjVry xml:lang="en">Ewan McFarlane</webprotege:RcEUZJUMPbY5NaISpsjVry>
+        <rdfs:comment xml:lang="en">Gives gift vouchers</rdfs:comment>
+        <rdfs:label xml:lang="en">TheLarderOnGoosegate</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.thelarderongoosegate.co.uk/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCxxpksxM7HsTbmFteqCN5G -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCxxpksxM7HsTbmFteqCN5G">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R6XGaHLhif5vcOgPWoO4sH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R94Uhk3PyYIzkx5BkOiWwA8"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9zddpSOO8OXibzQ482j2be"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RByzK4PyFZOOtBhL6HydihS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCgHNA9P6e0XUbV8wfDZwn6"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RIc9IuclsutzjtIxVw8u69"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">1997</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">12:00-21:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <webprotege:RcEUZJUMPbY5NaISpsjVry xml:lang="en">Kim Kaewkraikhot</webprotege:RcEUZJUMPbY5NaISpsjVry>
+        <rdfs:label xml:lang="en">Thaikhun</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.thaikhun.co.uk/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDBKvXirs5Y5JkeTWwz9St4 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDBKvXirs5Y5JkeTWwz9St4">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7W086icsOp12BAauX2KXoZ"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8BN7E35OKz55mjawmvGrgN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8jXsHs9Vkywkrad4I1lFdh"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9Q3NdyWjy6Wvd89NEV4lj1"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RxZE9VbXySQL25WrgqRdWf"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">1994</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">10:30-23:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <webprotege:RcEUZJUMPbY5NaISpsjVry xml:lang="en">Robert Beacham and, John Whitehead</webprotege:RcEUZJUMPbY5NaISpsjVry>
+        <rdfs:label xml:lang="fr">LeBistrotPierre</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://bistrotpierre.co.uk/locations/nottingham"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDE8SwPjheELfH7Q29wAyQz -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDE8SwPjheELfH7Q29wAyQz">
+        <rdfs:label>GurkhaExpress</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDT1IXGSFI2u1rModdOXvDc -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDT1IXGSFI2u1rModdOXvDc">
+        <rdfs:label>Winner Best Indian Restaurant</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDk8eDBXzogY6Y5tB0mRzNl -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDk8eDBXzogY6Y5tB0mRzNl">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8OxHnfPeupIAgiEwrhLEZ4"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9zddpSOO8OXibzQ482j2be"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RByzK4PyFZOOtBhL6HydihS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC6i87CNj2wxhMuOXw7kekI"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RWiMZ74lHwbONs0vDJoiVd"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RrugEia120LA7oGVv4mX76"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">2001</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">16:00-00:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <rdfs:comment xml:lang="en">Private karaoke rooms</rdfs:comment>
+        <rdfs:label xml:lang="en">Restaurant88</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.therestaurant88.co.uk/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDpfUz24QSusXaon4RVeZ59 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDpfUz24QSusXaon4RVeZ59">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R6XGaHLhif5vcOgPWoO4sH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9xxGu0GOKO4JrmWnH0MjMw"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9y2aHdavtB04GlAndOjSac"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDio1HgIU0Y0YshFTqquUbm"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDjKX9x2TrG8kcRuczIfTQu"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RPOU7wuAVHOhsdot0YuuJH"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">11:00-23:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <rdfs:label>HanSofrazi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDzpljlD6yvjO2TDtgAwHm7 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDzpljlD6yvjO2TDtgAwHm7">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R6XGaHLhif5vcOgPWoO4sH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8BN7E35OKz55mjawmvGrgN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9tgeVrE2PMPNex8wZV6cad"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9y2aHdavtB04GlAndOjSac"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RznlQmFW2tMQjiKb2m4Fmz"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">17:00-22:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <rdfs:label xml:lang="en">CaribbeanQueen</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.caribbeanqueennottingham.com/about-us/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RKe1s711T6EqI6COg3tyjq -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RKe1s711T6EqI6COg3tyjq">
+        <rdfs:label>WagamamaCornerhouse</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RLbZyngWziL6D3PZf6xKUz -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RLbZyngWziL6D3PZf6xKUz">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7W086icsOp12BAauX2KXoZ"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8BN7E35OKz55mjawmvGrgN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8jXsHs9Vkywkrad4I1lFdh"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9tgeVrE2PMPNex8wZV6cad"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/R8KK8jdqAxxAgDJJCMHOHUW"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">1995</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">12:00-21:30</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <rdfs:label xml:lang="en">PetitParis</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://petitparisrestaurant.squarespace.com/viibty3svfmiz27tatitl6oirs866e"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RMeO1XHWpFI8CqePqNJX8a -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RMeO1XHWpFI8CqePqNJX8a">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R6XGaHLhif5vcOgPWoO4sH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8BN7E35OKz55mjawmvGrgN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RByzK4PyFZOOtBhL6HydihS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDjKX9x2TrG8kcRuczIfTQu"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RPOU7wuAVHOhsdot0YuuJH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RzsF9kTBWUYhK0kLa6GbOQ"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">1995</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">11:00-22:30</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <rdfs:label xml:lang="en">Dalyan</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RQhhqe0gibgzf9A6nyu638 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RQhhqe0gibgzf9A6nyu638">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R6XGaHLhif5vcOgPWoO4sH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7sELCGXRLyNRsxdq48gTNf"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8jXsHs9Vkywkrad4I1lFdh"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9aPEiihuVQhKCkgeF9hjw7"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9zddpSOO8OXibzQ482j2be"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RPOU7wuAVHOhsdot0YuuJH"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RV9QZfLb9A3NUlXRsgtRm2"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">1975</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">17:00-23:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <webprotege:RcEUZJUMPbY5NaISpsjVry xml:lang="e">Sunny and Shelley Anand</webprotege:RcEUZJUMPbY5NaISpsjVry>
+        <rdfs:label xml:lang="en">TheCumin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RV9QZfLb9A3NUlXRsgtRm2 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RV9QZfLb9A3NUlXRsgtRm2">
+        <rdfs:label>British Curry Award</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RaZ5GFRwxAgGdy2HhvOSuJ -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RaZ5GFRwxAgGdy2HhvOSuJ">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7TOwN6w9z29hkGtVVobLt9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8BN7E35OKz55mjawmvGrgN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8jXsHs9Vkywkrad4I1lFdh"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCayTDHZAFHhY68wfm50Wn8"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RNWj870jO0urbIRGcEejer"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RrugEia120LA7oGVv4mX76"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBYRSXgzWgNQPauMYMxasWL xml:lang="en">1992</webprotege:RBYRSXgzWgNQPauMYMxasWL>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">12:00-24:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <webprotege:RcEUZJUMPbY5NaISpsjVry xml:lang="en">Casual Dining Group</webprotege:RcEUZJUMPbY5NaISpsjVry>
+        <rdfs:comment xml:lang="en">Live music</rdfs:comment>
+        <rdfs:label xml:lang="en">Belgo</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.belgo.com/restaurant/nottingham/eat/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RbT0IuH4nMQyidhbYSABGS -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RbT0IuH4nMQyidhbYSABGS">
+        <rdfs:label>Amita</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rm2ssJPY2eyBgTXu3vwPBZ -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Rm2ssJPY2eyBgTXu3vwPBZ">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R6XGaHLhif5vcOgPWoO4sH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8222H5mHg2B2vQaoXDhnzG"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBCNJ1zeIVx4OhaRQ4mUKLF"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDio1HgIU0Y0YshFTqquUbm"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">12.00-23.00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <rdfs:label xml:lang="en">Wagamama</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.wagamama.com/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RsqtTpii8yrDjx3W9032Z9 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RsqtTpii8yrDjx3W9032Z9">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R5KmiuOU3qt8ELxIYLfFDq"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R6XGaHLhif5vcOgPWoO4sH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9y2aHdavtB04GlAndOjSac"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9zddpSOO8OXibzQ482j2be"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC0nlQRQfiGJ4FS75ScI80q"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCCzi0lFDjsFpPItilbTodX"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhKXKyifu56eRO28v5zrva"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RIc9IuclsutzjtIxVw8u69"/>
+        <webprotege:R8DhrMCAWhfVcSJM3hBIC69 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9VaZpqWxKkr5xgX5C3tXA9 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:R9hHPRsNFFNCG1NluQMZE93 rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RB7N6f7bEOFMIys0pxGTF2x rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RBPblDF5VVtVXkp33fF1GSm rdf:resource="http://webprotege.stanford.edu/RBbBxUA4oOa8nfLZjvJZcBu"/>
+        <webprotege:RsnvcjT5uTf2vJTxoCFcLk rdf:resource="http://webprotege.stanford.edu/RCjhl2WHouGSs2ih6mtyIoG"/>
+        <webprotege:RBj9lpffBXzsIqWygha8sZ2 xml:lang="en">11:00-23:00</webprotege:RBj9lpffBXzsIqWygha8sZ2>
+        <rdfs:label xml:lang="en">RoyalThai</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.royalthairestaurant.co.uk/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RxZE9VbXySQL25WrgqRdWf -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RxZE9VbXySQL25WrgqRdWf">
+        <rdfs:label>Best Casual Dining</rdfs:label>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.3.1) https://github.com/owlcs/owlapi -->
+
